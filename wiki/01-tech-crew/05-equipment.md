@@ -19,9 +19,10 @@ and be sure to contact us first in case other equipment may be more suitable for
 
 
 * **Sound**
-    * **Speakers:** db LVX 8, Mackie SRM350, Mackie SRM450 v2
-    * **Microphones & DI:** SM58/e825 S, SM57/MB75, AR-133, Beta 52A, AR-133/Ultra-G GI100 Active DI
-    * **Wireless Mics:** Sennheiser EM300 G3/SK 300 G3 radio mic system with MKE2 lavalier and handheld microphones
+    * **Speakers:** Nexo Geo S12 Line array, db LVX 8, Mackie SRM350, Mackie SRM450 v2
+    * **Amplifiers** Nexo NX Amp 4x4
+    * **Microphones & DI:** SM58/e825 S, SM57/MB75, Beta 52A, AR-133/Ultra-G GI100/Radial JD Stereo Active DI
+    * **Wireless Mics:** , Sennheiser EM300 G3/SK 300 G3 radio mic system with MKE2 lavalier and handheld microphones
     * **Mixers:** A&H SQ5 (with stagebox), SI Expression 3, Yamaha 01V, Soundcraft E12, Midas DM12
     * **Devices:** Macbook (with QLab license), iPad
     * **Accessories:** Speaker & microphone stands, drum screen, audio interfaces, snakes & looms, cables
